@@ -1,0 +1,23 @@
+{
+  "name": "ssf-day1workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://moharilstackup@github.com/moharilstackup/ssf-day1workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moharilstackup/ssf-day1workshop/issues"
+  },
+  "homepage": "https://github.com/moharilstackup/ssf-day1workshop#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
